@@ -1,2 +1,2 @@
 # bow
-A command-line utility tool and framework to connect and communicate to a terminal and back
+A command-line utility tool and programming language to connect and communicate to a terminal and back
